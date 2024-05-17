@@ -1,0 +1,2 @@
+# KwazyRichMe
+monopoly style game
